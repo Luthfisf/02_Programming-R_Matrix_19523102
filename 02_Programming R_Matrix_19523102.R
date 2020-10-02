@@ -1,5 +1,5 @@
-a <- matrix(data = c(1:9), nrow = 3, ncol = 3, byrow = TRUE)
-a
+A <- matrix(data = c(1:9), nrow = 3, ncol = 3, byrow = TRUE)
+A
 
 M <- matrix(c(1,2,3,4,5,6,7,8,9),3,3, TRUE)
 A[-1, ]
